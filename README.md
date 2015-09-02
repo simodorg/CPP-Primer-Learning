@@ -1,2 +1,2 @@
-# CPP-Primer-Learning
-Source files I wrote while learning C++ Primer.
+# *C++ Primer* Learning Notes
+Source files I wrote while learning *C++ Primer*.
